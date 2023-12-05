@@ -1,5 +1,5 @@
 # Welcome to the Code Shore! 🌊
-<img src="https://github.com/aquantica/aquantica/assets/153020873/190e1dd5-d735-4ba8-b049-63fae36476d1" alt="Code Shore Banner" style="border-radius: 30px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+![17018077448000p01yzjl](https://github.com/aquantica/aquantica/assets/153020873/190e1dd5-d735-4ba8-b049-63fae36476d1)
 
 Greetings, fellow digital voyager! I'm aquantica, a Golang enthusiast weaving tales in the realm of code. Here's a glimpse into the serene landscape of my GitHub profile:
 
@@ -26,5 +26,3 @@ Greetings, fellow digital voyager! I'm aquantica, a Golang enthusiast weaving ta
 
 8. **🌟 Collaborative Constellation:**
    - Interested in collaboration? The constellation of collaborative projects awaits. Let's join forces, contribute ideas, and together, navigate the endless possibilities of the Code Shore.
-
-Embark on this tranquil journey with me as we explore the beauty of code and the vastness of the digital horizon on the Code Shore. May our lines be elegant, our logic flawless, and our pixels forever enchanting. ⚓✨
