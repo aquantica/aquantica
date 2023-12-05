@@ -1,5 +1,10 @@
 # Welcome to the Code Shore! 🌊
-![17018077448000p01yzjl](https://github.com/aquantica/aquantica/assets/153020873/190e1dd5-d735-4ba8-b049-63fae36476d1)
+<p align="center">
+  <img src="https://github.com/aquantica/aquantica/assets/153020873/190e1dd5-d735-4ba8-b049-63fae36476d1" style="border-radius: 30px; width: 90%;  border: 1px solid #000;   box-shadow: 0px 0px 30px 15px rgba(0,200,170,0.3);
+ background-repeat: no-repeat; " />
+</p>
+
+
 
 Greetings, fellow digital voyager! I'm aquantica, a Golang enthusiast weaving tales in the realm of code. Here's a glimpse into the serene landscape of my GitHub profile:
 
